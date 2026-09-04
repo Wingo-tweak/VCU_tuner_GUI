@@ -1,0 +1,17 @@
+{
+  "default": "VCU_readback_1.5.13.zip",
+  "display_name": "Stock-based VCU 1.5.13 (Compat) A-parameter readback template",
+  "provenance": "Exact stock VCU 1.5.13 (Compat) 1f1e05eb79ab0bebdd0c016345f9cd9c25364bc1e7e46162414fba1f2093b108; only raw 0x7AB4 literal 0x2000641A -> 0x20003900",
+  "sha256": "135a7f8006ee1d6157972255651e152e8f1d072152e04ecff8435c32bbfa98bb",
+  "schema_version": 2,
+  "firmware_type": "vcu",
+  "compatible": [
+    "g3_VCU_AT32"
+  ],
+  "stock_firmware_sha256": "1f1e05eb79ab0bebdd0c016345f9cd9c25364bc1e7e46162414fba1f2093b108",
+  "readback_firmware_sha256": "2a78a011827577045c108d017415d5149da64908901056d4b4a4337130da71d9",
+  "firmware_diff_offsets": [
+    "0x7AB4",
+    "0x7AB5"
+  ]
+}

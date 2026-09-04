@@ -1,0 +1,2 @@
+# Optional GUI integration. The tuner itself otherwise uses Python's standard library.
+tkinterdnd2==0.4.3

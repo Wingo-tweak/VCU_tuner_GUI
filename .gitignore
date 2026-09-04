@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+# Local project notes and verification code are not part of the public release.
+TODO.md
+tests/

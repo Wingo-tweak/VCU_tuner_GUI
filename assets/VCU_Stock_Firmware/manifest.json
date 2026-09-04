@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "version": "1.4.8",
+      "display_name": "VCU 1.4.8 (Compat) stock",
+      "file": "VCU_1.4.8_compat.bin",
+      "bytes": 60340,
+      "sha256": "d8b14d357177143bca4ef69072c0856fcdc63e40a282a8104b322d5dcaa0c299",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.5.4",
+      "display_name": "VCU 1.5.4 (Compat) stock",
+      "file": "VCU_1.5.4_compat.bin",
+      "bytes": 60508,
+      "sha256": "bc28bfadaeb6df391a77a08af7f2858cdc00123f408e93c617c011ce0233990f",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.5.5",
+      "display_name": "VCU 1.5.5 (Compat) stock",
+      "file": "VCU_1.5.5_compat.bin",
+      "bytes": 57292,
+      "sha256": "b087b5afbd4257b75f66aff583cf46026d37ba3c8701266d470b9a2aa7676617",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.5.6",
+      "display_name": "VCU 1.5.6 (Compat) stock",
+      "file": "VCU_1.5.6_compat.bin",
+      "bytes": 57476,
+      "sha256": "bb74b5aef93054d4eb9252bcd01414ed0b8d0384ffe428d189c1bf8b49c59f18",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.5.8",
+      "display_name": "VCU 1.5.8 (Compat) stock",
+      "file": "VCU_1.5.8_compat.bin",
+      "bytes": 61436,
+      "sha256": "ef740379e9d2a489a24f8517d48f9dd5ec06d7f2daa73e12fe37230fc990bbcd",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.5.13",
+      "display_name": "VCU 1.5.13 (Compat) stock",
+      "file": "VCU_1.5.13_compat.bin",
+      "bytes": 56820,
+      "sha256": "1f1e05eb79ab0bebdd0c016345f9cd9c25364bc1e7e46162414fba1f2093b108",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.5.15",
+      "display_name": "VCU 1.5.15 (Compat) stock",
+      "file": "VCU_1.5.15_compat.bin",
+      "bytes": 61316,
+      "sha256": "534dc887dea2a02c58da4b39f412806c56ebe862b0263dfd012242470443a9c7",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.6.1",
+      "display_name": "VCU 1.6.1 (Compat) stock",
+      "file": "VCU_1.6.1_compat.bin",
+      "bytes": 60372,
+      "sha256": "7df86cc4a23f62ee8a96e2bf187954fd7268bf1723883a4591f8ca2e0f1ac782",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    },
+    {
+      "version": "1.6.2",
+      "display_name": "VCU 1.6.2 (Compat) stock",
+      "file": "VCU_1.6.2_compat.bin",
+      "bytes": 60356,
+      "sha256": "384a1d98ec36cc7071c6cbd389afa53a52ca1c4ebcdec6374902fc0eb6443693",
+      "firmware_type": "vcu",
+      "compatible": [
+        "g3_VCU_AT32"
+      ],
+      "flags": [
+        "stock",
+        "compat"
+      ]
+    }
+  ]
+}
